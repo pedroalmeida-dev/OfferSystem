@@ -1,0 +1,21 @@
+{
+  "name": "com.company.offersystem",
+  "version": "0.0.1",
+  "displayName": "Offer System",
+  "description": "A Unity package for managing personalized offers.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Your Company",
+    "email": "support@yourcompany.com",
+    "url": "https://yourcompany.com"
+  },
+  "keywords": [
+    "offers",
+    "promotion",
+    "IAP",
+    "discounts",
+    "sales"
+  ],
+  "category": "Monetization",
+  "dependencies": {}
+}

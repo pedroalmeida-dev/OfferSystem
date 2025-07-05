@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfferSystem", "OfferSystem.csproj", "{FD3EC2B6-FB4A-E99A-B926-5E6B6CE5AA96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletTransactionSDK", "WalletTransactionSDK.csproj", "{15206208-DE67-7626-4822-1F6A437B307F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project", "Project.csproj", "{F25A10B3-729D-F9D7-8298-277420CE15CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD3EC2B6-FB4A-E99A-B926-5E6B6CE5AA96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD3EC2B6-FB4A-E99A-B926-5E6B6CE5AA96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD3EC2B6-FB4A-E99A-B926-5E6B6CE5AA96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD3EC2B6-FB4A-E99A-B926-5E6B6CE5AA96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15206208-DE67-7626-4822-1F6A437B307F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15206208-DE67-7626-4822-1F6A437B307F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15206208-DE67-7626-4822-1F6A437B307F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15206208-DE67-7626-4822-1F6A437B307F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F25A10B3-729D-F9D7-8298-277420CE15CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25A10B3-729D-F9D7-8298-277420CE15CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25A10B3-729D-F9D7-8298-277420CE15CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25A10B3-729D-F9D7-8298-277420CE15CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
